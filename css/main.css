@@ -1,0 +1,31 @@
+h1{
+  font-size: 45px;
+}
+h3{
+  font-size: 30px;
+}
+.header-name{
+  color: #151515;
+  margin-bottom: 30px;
+}
+.main-pic{
+  margin: 20px;
+}
+.text-color1{
+  color: #6E6E6E;
+}
+.sub-heading{
+  margin: 20px;
+}
+.text-section{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+.end-note{
+  font-size: 15px;
+  margin: 10px;
+}
+.foot-note{
+  font-size: 14px;
+  margin: 5px 15px 15px 5px;
+}
